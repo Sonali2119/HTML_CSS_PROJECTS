@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+nav{
+    padding: 10px 8%;
+    margin-top: 50px;
+    margin-left: 600px;
+    align-items: center;
+ }
+ nav ul{
+    display: flex;
+      align-items: center;
+      justify-content: space-between;
+ }
+ nav ul li {
+    font-size: 20px;
+    list-style: none;
+    color:white;
+    align-items: center;
+    font-family: 'Teko', sans-serif;
+  }
+  .button1{
+    padding: 7px 30px;
+    margin-left: 20px;
+    border-radius: 7px;
+    font-size: 15px;
+    color: white;
+}
+  .box1{
+    margin-top: 40px;
+    margin-left: 60px;
+
+  }
+  .box2{
+    color: white;
+    font-size: 80px;
+    margin-top: 20px;
+  }
+  .box3{
+    color: white;
+    font-size: 25px;
+    margin-top: 50px;
+  }
+  .box4{
+    color:gray;
+    font-size: 20px;
+    margin-top: 30px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .box5{
+    color: white;
+    padding: 10px 25px;
+    border-radius: 4px;
+    font-size: 20px;
+    border-color: gray;
+    margin-top: 32px;
+  }
+  .box6{
+    margin-top: -750px;
+    margin-left: 250px;
+  }
+  .box7{
+    margin-top: -450px;
+    margin-left: 180px;
+  }
+  .box8{
+    margin-top:600px ;
+    margin-left: 250px;
+    
+  }
+  .box9{
+   margin-top:-32px;
+    margin-left: 500px;
+    
+  }
+  .box10{
+    margin-left: 750px;
+    margin-top: -30px;
+    
+  }
+   .box11{
+    margin-top: -32px;
+     margin-left: 1000px;
+}
+.box12{
+    margin-top: 140px;
+    margin-left: 600px;
+}
+.box13{
+    color: white;
+}
+.box14{
+    color: gray;
+}
+.box15{
+    color: white;
+}
+.box16{
+    color: gray;
+}
+.box17{
+    color: white;
+}
+.box18{
+    color: gray;
+}
+.box19{
+    color: white;
+}
+.box20{
+    color: gray;
+}
+.column1{
+    margin-top: 40px;
+    margin-left: 350px;
+}
+.column2{
+    margin-top: 20px;
+    margin-left: 310px;
+}
+.column3{
+    margin-top: 20px;
+    margin-left: 310px;
+}
+.column4{
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.column5{
+    margin-left: 650px;
+    margin-top: -350px;
+}
+.column6{
+    margin-left: 550px;
+    margin-top: 180px;
+}
+.column7{
+    margin-top: 80px;
+    margin-left: -250px;
+}
+.column8{
+    color: gray;
+    margin-left: 150px;
+    margin-top: -300px;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.column9{
+    border-radius: 7px;
+    padding: 10px 30px;
+    color: white;
+    font-size: 25px;
+   margin-left: 150px;
+   margin-top: 40px;
+   background-color: rgba(78, 61, 61, 0.911);
+}
+.column10{
+    color: white;
+    font-size: 28px;
+    margin-top: 250px;
+}
+.column11{
+    color: gray;
+    font-size: 20px;
+}
+.column12{
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    padding: 7px 10px;
+    font-size: 22px;
+    border-color: black;
+}
+.column13{
+    margin-top: 200px;
+    margin-left: 300px;
+
+}
+.s1{
+    margin-left: 400px;
+    margin-top: -200px;
+}
+.s2{
+    margin-top: 120px;
+    margin-left: 400px;
+}
+.s3{
+    margin-left: 400px;
+}
+.s4{
+    margin-left: 30px;
+}
+.s5{
+    margin-left: 30px;
+}
+.s6{
+    margin-left: 450px;
+    margin-top: 40px;
+}
+.s7{
+    margin-left: 30px;
+}
+.s8{
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.s9{
+    color:gray;
+    font-size: 20px;
+    list-style: none;
+    margin-top: 10px;
+    
+}
+.s10{
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+   
+.s11{
+    color: gray;
+    font-size: 20px;
+    list-style: none;
+    margin-top: 10px;
+}
+.s12{
+   margin-left: 400px;
+   margin-top: 120px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.s13{
+    margin-left: 700px;
+    margin-top: -130px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.s14{
+    margin-left: 950px;
+    margin-top: -100px;
+    padding: 10px 10px;
+    margin-bottom: 200px;
+}
+.s15{
+    margin-left: 200px;
+    margin-top: -300px;
+    margin-bottom: 300px;
+
+}
+
+
