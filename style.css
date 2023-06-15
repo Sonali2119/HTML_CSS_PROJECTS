@@ -1,70 +1,61 @@
-*{
+body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: white;
+    background-image: url("file:///C:/Users/xyz/Downloads/Coding%20Challege%20Part%201/Project%2002/assets/bg.png"); 
+    background-size:1400px 650px ;
+    background-repeat: no-repeat;
 }
 .box{
-    height: 40px;
-    margin-top: 30px;
-    margin-left: 20px;
+    height: 38px;
+    margin-top: 20px;
+    margin-left: 30px;
 }
 nav{
-    padding: 15px 10%;
-    margin-top: -55px;
-    margin-left: 150px;
+    padding: 10px 8%;
+    margin-top: -65px;
+    margin-left: -50px;
     align-items: center;
+    background-color: black;
   }
 
   nav ul{
     display: flex;
       align-items: center;
-      justify-content: space-between;
+      justify-content: space-evenly;
   }
   nav ul li {
     font-size: 20px;
     list-style: none;
-    color: gray;
+    color: white;
     align-items: center;
   }
   .box1{
-    color: black;
-  }
-.box2{
-    margin-top: 120px;
-    margin-left: -50px;
-    font-size: 35px;
-}
-.box3{
-    font-size: 20px;
-    margin-top: 10px;
-}
-.button{
-    margin-top: 35px;
-    border-radius: 7px;
-    padding: 15px 15px;
+    color: white;
     text-align: center;
-    background-color: blueviolet;
-    color: white;
-    margin-left: 5px;
-    margin-right: 5px;
-}
-.box4{
-    height: 450px;
-    margin-left: 500px;
-    margin-right: 0px;
-    margin-top: -400px;
-    width: auto;
-}
-.button1{
-    border-radius: 5px;
-    background-color:blueviolet;
-    padding: 10px 10px;
-    color: white;
+    font-size: 70px;
+  }
 
-}
-.box5{
-    color: blueviolet;
-}
-    
-    
+  .box2{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: -40px;
+  }
+  .button2{
+    background-color: rgb(156, 13, 156);
+    color: white;
+    border-radius: 7px;
+    padding: 12px 12px;
+    margin-left: 580px;
+    font-size: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .button1{
+    background-color: rgb(156, 13, 156);
+    color: white;
+    padding: 5px 10px;
+    margin-left:120px;
+    border-radius: 7px;
+  }
+ 
